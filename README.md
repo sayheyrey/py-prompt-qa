@@ -19,8 +19,8 @@ A Python tool for testing and evaluating AI prompts using OpenAI's GPT-4 model. 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/sayheyrey/py-prompt-tester.git
-cd py-prompt-tester
+git clone https://github.com/sayheyrey/py-prompt-qa
+cd py-prompt-qa
 ```
 
 2. Install required packages:
