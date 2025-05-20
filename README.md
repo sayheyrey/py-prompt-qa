@@ -51,7 +51,7 @@ The script will:
 - Generate responses using GPT-4
 - Calculate token usage and costs
 - Assign scores based on response length (5.0-10.0 scale)
-- Save results to `AI_Prompts_Testing_Template - TESTED.csv`
+- Save results to `TESTED_AI_Prompts_Testing_Template.csv`
 
 ## Output Format
 

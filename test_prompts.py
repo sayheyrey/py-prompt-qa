@@ -41,5 +41,5 @@ for i in tqdm(range(min(10, len(df)))):
     df.at[i, "Score"] = round(score, 2)
 
 # Save to new CSV
-df.to_csv("TESTEDAI_Prompts_Testing_Template.csv", index=False)
+df.to_csv("TESTED_AI_Prompts_Testing_Template.csv", index=False)
 print("✅ First 10 prompts tested and saved.")
